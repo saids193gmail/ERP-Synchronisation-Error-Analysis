@@ -116,10 +116,10 @@ Notebook outputs generated using confidential research data should be cleared be
 **Said S. N. Al Harthy**  
 Modern College of Business and Science, Oman
 
-**Sin-Ban Ho**  
+**Dr. Sin-Ban Ho**  
 Multimedia University, Malaysia
 
-**Ian Chai**  
+**Dr. Ian Chai**  
 Multimedia University, Malaysia
 
 ## Citation
